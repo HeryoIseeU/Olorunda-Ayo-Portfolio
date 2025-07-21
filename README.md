@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <img src="profile.jpg" alt="Olorunda Ayo">
+    <img src="q.jpg" alt="Olorunda Ayo">
     <h1>Olorunda Ayo</h1>
     <p>Aspiring Data Scientist | Turning Data into Insights</p>
   </header>
@@ -108,11 +108,11 @@
     <h2>Contact</h2>
     <p>Email: <a href="mailto:ayoisaac2030@gmail.com">ayoisaac2030@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/olorundaayo">linkedin.com/in/olorundaayo</a></p>
-    <p><a href="resume.pdf" download>📄 Download My Resume</a></p>
+    <p><a href="OLORUNDA AYO RESUME.pdf" download>📄 Download My Resume</a></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Olorunda Ayo. All rights reserved.</p>
+    <p>&copy; 2025 Danvero. All rights reserved.</p>
   </footer>
 </body>
 </html>
