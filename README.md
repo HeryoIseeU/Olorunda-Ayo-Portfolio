@@ -108,7 +108,7 @@
     <h2>Contact</h2>
     <p>Email: <a href="mailto:ayoisaac2030@gmail.com">ayoisaac2030@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/olorundaayo">linkedin.com/in/olorundaayo</a></p>
-    <p><a href="OLORUNDA AYO RESUME.pdf" download>📄 Download My Resume</a></p>
+    <p><a href="OLORUNDA AYO RESUME .pdf" download>📄 Download My Resume</a></p>
   </section>
 
   <footer>
