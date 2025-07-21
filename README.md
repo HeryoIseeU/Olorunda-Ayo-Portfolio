@@ -1,35 +1,44 @@
 # Olorunda Ayo - Data Science Portfolio
 
-This is the personal portfolio website of **Olorunda Ayo**, an aspiring data scientist with a strong foundation in Mathematics and hands-on experience in healthcare billing systems and IT support. The site showcases select projects and provides contact details for networking and collaboration.
+Welcome to my personal portfolio website!  
+This site showcases my journey, background, and projects as an aspiring data scientist passionate about using data to drive impact.
 
-## 🔍 About Me
+🌐 **Live Site:**  
+[Visit My Portfolio](https://heryoiseeu.github.io/Olorunda-Ayo-Portfolio/)
 
-I am passionate about using data to solve real-world problems, particularly in industries like healthcare and customer experience. My interests include:
+---
 
+## 📌 About Me
+
+I am a detail-oriented aspiring Data Scientist with a background in Mathematics and practical experience in healthcare billing systems and IT support. I enjoy solving real-world problems using data and aim to merge technical skills with social impact.
+
+### 💡 Interests:
 - Data analytics for social good  
-- Machine learning fundamentals  
 - Data-driven decision-making  
+- Exploring machine learning fundamentals  
 
-## 🚀 Projects
+---
 
-### 📊 Hospital Billing System Audit
-- **Tools:** Excel, SQL, Python  
-- Collaborated with IT to audit hospital billing data, identify reporting discrepancies, and assist in software testing.
+## 📁 Featured Projects
 
-### 😊 Customer Experience Analysis
-- **Tools:** Google Sheets, Data Studio  
-- Analyzed feedback from a product launch to uncover user pain points and improve customer onboarding.
+### 🏥 Hospital Billing System Audit
+**Tools:** Excel, SQL, Python  
+- Audited billing records to identify discrepancies.
+- Collaborated with IT to escalate and resolve system issues.
+- Contributed to software testing efforts.
 
-## 🌐 Live Site
+### 💬 Customer Experience Analysis
+**Tools:** Google Sheets, Data Studio  
+- Analyzed feedback from a product launch.
+- Identified user pain points to improve customer onboarding and retention.
 
-[Click here to view my live portfolio](https://github.com/HeryoIseeU.github.io/Olorunda-ayo-portfolio>)  
-> Replace the URL above after deploying to GitHub Pages.
+---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- **Email:** ayoisaac2030@gmail.com
-- **Phone number: +2348143430122; +2347032123180  
+- **Email:** olorundaayo@example.com  
 - **LinkedIn:** [linkedin.com/in/olorundaayo](https://www.linkedin.com/in/olorundaayo)
 
 ---
 
+> This portfolio was built using HTML and CSS, and hosted via GitHub Pages.
