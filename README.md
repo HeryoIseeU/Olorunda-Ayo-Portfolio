@@ -22,12 +22,13 @@ I am passionate about using data to solve real-world problems, particularly in i
 
 ## 🌐 Live Site
 
-[Click here to view my live portfolio](https://<your-github-username>.github.io/<repo-name>)  
+[Click here to view my live portfolio](https://github.com/HeryoIseeU.github.io/Olorunda-ayo-portfolio>)  
 > Replace the URL above after deploying to GitHub Pages.
 
 ## 📫 Contact
 
-- **Email:** olorundaayo@example.com  
+- **Email:** ayoisaac2030@gmail.com
+- **Phone number: +2348143430122; +2347032123180  
 - **LinkedIn:** [linkedin.com/in/olorundaayo](https://www.linkedin.com/in/olorundaayo)
 
 ---
