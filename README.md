@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <img src="q.jpg" alt="Olorunda Ayo">
+    <img src="bg.jpg" alt="Olorunda Ayo">
     <h1>Olorunda Ayo</h1>
     <p>Aspiring Data Scientist | Turning Data into Insights</p>
   </header>
