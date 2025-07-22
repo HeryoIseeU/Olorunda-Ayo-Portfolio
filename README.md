@@ -118,4 +118,42 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li>Data Analysi
+      <li>Data Analysis: Excel, SQL, Python (Pandas, NumPy)</li>
+      <li>Data Visualization: Power BI, Google Data Studio</li>
+      <li>IT Support & Software Testing</li>
+      <li>Communication & Critical Thinking</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Hospital Billing System Audit</h3>
+      <p><strong>Tools:</strong> Excel, SQL, Python</p>
+      <p>Analyzed healthcare billing records to detect inconsistencies and streamline issue resolution. Collaborated with IT to improve escalation flow and support software testing.</p>
+      <p><a href="https://github.com/HeryoIseeU/hospital-billing-system" target="_blank">🔗 View on GitHub</a></p>
+    </div>
+
+    <div class="project">
+      <h3>Customer Experience Analysis</h3>
+      <p><strong>Tools:</strong> Google Sheets, Data Studio</p>
+      <p>Processed feedback data from a tech product launch, uncovering customer pain points that informed onboarding and product refinement strategies.</p>
+      <p><a href="https://github.com/HeryoIseeU/customer-experience-analysis" target="_blank">🔗 View on GitHub</a></p>
+    </div>
+
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:ayoisaac2030@gmail.com">ayoisaac2030@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/olorundaayo" target="_blank">linkedin.com/in/olorundaayo</a></p>
+    <p><a href="OLORUNDA AYO RESUME .pdf" download="OLORUNDA-AYO-Resume">📄 Download My Resume</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Olorunda Ayo. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
